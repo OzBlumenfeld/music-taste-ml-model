@@ -1,0 +1,13 @@
+age,sex,music
+17,1,pop
+18,1,pop
+21,1,jazz
+22,1,jazz
+25,1,classical
+30,1,classical
+16,0,pop
+17,0,pop
+21,0,kpop
+22,0,kpop
+26,0,classical
+27,0,classical
