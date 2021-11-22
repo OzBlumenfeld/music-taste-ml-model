@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from joblib import dump,load
 
-csv_file = pd.read_csv('oz.csv')
+csv_file = pd.read_csv('dataset.csv')
 
 #  Useful prints to analyze the data
 # print(csv_file.values)
